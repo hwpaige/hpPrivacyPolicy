@@ -2,24 +2,19 @@
 
 **Last Updated:** February 7, 2026
 
-This Privacy Policy describes how we collect, use, and handle your information when you use our mobile application ("App").
+This Privacy Policy describes how we collect, use, and handle your information when you use our mobile application ("Launch Buddy").
 
 ## 1. Information We Collect
 
 ### 1.1 Information You Provide
 - Account information (name, email address)
-- Profile information
-- User-generated content
 - Communications with us
 
 ### 1.2 Automatically Collected Information
 - Device information (device type, operating system, unique device identifiers)
 - Usage data (features used, actions taken, time and frequency of use)
-- Log data (IP address, browser type, app version)
-- Location data (with your permission)
 
 ### 1.3 Information from Third Parties
-- Social media platforms (if you choose to connect your account)
 - Analytics providers
 - Advertising partners
 
@@ -86,7 +81,7 @@ Your continued use of the App after changes become effective constitutes accepta
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
 
-**Email:** privacy@example.com
+**Email:** hrrsn.paige@gmail.com
 
 ---
 
