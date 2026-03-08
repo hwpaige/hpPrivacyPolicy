@@ -86,3 +86,70 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 ---
 
 By using our App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+---
+
+# Terms of Use (End User License Agreement)
+
+**Last Updated:** February 7, 2026
+
+This End User License Agreement ("EULA" or "Terms of Use") is a legal agreement between you and the developer of Launch Buddy ("we," "us," or "our") governing your use of the Launch Buddy mobile application ("App"). By downloading, installing, or using the App, you agree to be bound by these terms.
+
+## 1. License Grant
+
+Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the App for your personal, non-commercial use on devices that you own or control.
+
+## 2. Restrictions
+
+You agree not to:
+- Copy, modify, distribute, sell, or lease any part of the App
+- Reverse engineer, decompile, or attempt to extract the source code of the App
+- Remove or alter any copyright, trademark, or other proprietary notices
+- Use the App for any illegal purpose or in violation of any laws
+- Use the App to harm, harass, or interfere with others
+- Circumvent or attempt to circumvent any access controls, subscription checks, or security features
+
+## 3. Subscriptions and Payments
+
+The App may offer auto-renewable subscriptions and other in-app purchases.
+
+- **Payment:** Subscription fees are charged to your Apple ID account at confirmation of purchase.
+- **Auto-Renewal:** Unless you cancel at least 24 hours before the end of the current period, your subscription will automatically renew. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+- **Cancellation:** You may cancel your subscription at any time through your device’s subscription settings (Settings → [Your Name] → Subscriptions). Cancellation takes effect at the end of the current billing period.
+- **Refunds:** Refund requests are handled by Apple. Contact Apple Support for subscription or purchase refunds.
+- **Price Changes:** We may change subscription prices with reasonable notice. Continued use after a price change constitutes acceptance.
+
+## 4. Intellectual Property
+
+The App and all content, features, and functionality (including but not limited to software, text, graphics, and design) are owned by us or our licensors and are protected by copyright, trademark, and other intellectual property laws. This EULA does not grant you any rights to our trademarks or branding.
+
+## 5. Disclaimers
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS.
+
+## 6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR AFFILIATES, OFFICERS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR RELATED TO YOUR USE OF THE APP OR THESE TERMS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL OUR TOTAL LIABILITY EXCEED THE AMOUNT YOU PAID TO US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM, OR ONE HUNDRED U.S. DOLLARS ($100), WHICHEVER IS GREATER. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES; IN SUCH JURISDICTIONS, OUR LIABILITY SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+
+## 7. Termination
+
+We may terminate or suspend your access to the App at any time, with or without cause or notice, including for breach of these Terms. Upon termination, your license to use the App ceases immediately. Provisions that by their nature should survive (including intellectual property, disclaimers, limitation of liability, and governing law) will survive termination.
+
+## 8. Changes to These Terms
+
+We may update this EULA from time to time. We will notify you of material changes by posting the updated Terms at this location and updating the "Last Updated" date. Your continued use of the App after changes become effective constitutes acceptance of the revised Terms. If you do not agree, you must stop using the App.
+
+## 9. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the United States and the State in which the developer resides, without regard to conflict of law principles. Any disputes shall be resolved in the courts of that jurisdiction.
+
+## 10. General
+
+- **Entire Agreement:** These Terms, together with our Privacy Policy and any other policies we make available in the App, constitute the entire agreement between you and us regarding the App.
+- **Severability:** If any provision of these Terms is held invalid or unenforceable, the remaining provisions will remain in effect.
+- **Waiver:** Our failure to enforce any right or provision of these Terms shall not constitute a waiver of such right or provision.
+- **Contact:** For questions about these Terms of Use, contact us at **hrrsn.paige@gmail.com**.
+
+---
+
+By downloading, installing, or using Launch Buddy, you acknowledge that you have read, understood, and agree to be bound by this End User License Agreement and our Privacy Policy.
